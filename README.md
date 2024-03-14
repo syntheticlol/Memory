@@ -5,8 +5,8 @@ This Python script provides a simple tool for managing memory using Cython (ctyp
 ## Features
 
 - **Cross-platform Compatibility:** The script dynamically selects the appropriate Python DLL based on the system's platform, ensuring compatibility across different operating systems.
-- **Flexible Memory Allocation:** Users can allocate memory of varying sizes using the `allocatedicks` method, providing flexibility in memory management.
-- **Efficient Memory Deallocation:** The `ilikethatarabicguyinthegc` method frees allocated memory and triggers garbage collection to ensure efficient memory usage and prevent memory leaks.
+- **Flexible Memory Allocation:** Users can allocate memory of varying sizes using the `allocatemem` method, providing flexibility in memory management.
+- **Efficient Memory Deallocation:** The `thisisfax` method frees allocated memory and triggers garbage collection to ensure efficient memory usage and prevent memory leaks.
 
 ## Usage
 
