@@ -1,6 +1,6 @@
-# Python Memory Management Tool using Cython (ctypes)
+# Python Memory Management Tool using ctypes
 
-This Python script provides a simple tool for managing memory using Cython (ctypes), a foreign function library for Python. It includes functionality for both memory allocation and deallocation, leveraging the Python C API.
+This Python script provides a simple tool for managing memory using ctypes, a foreign function library for Python. It includes functionality for both memory allocation and deallocation, leveraging the Python C API.
 
 ## Features
 
