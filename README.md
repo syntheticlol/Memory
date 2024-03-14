@@ -11,17 +11,17 @@ This Python script provides a simple tool for managing memory using Cython (ctyp
 ## Usage
 
 ### 1. Clone the Repository:
-
+```bash
 git clone https://github.com/syntheticlol/memory
-
+```
 ### 2. Navigate to the Directory:
-
+```bash
 cd memory
-
+```
 ### 3. Run the Script:
-
+```bash
 py main.py
-
+```
 ### 4. Interact with the Tool:
 
 - Upon running the script, memory allocation and deallocation will be performed automatically.
